@@ -32,12 +32,12 @@ function PopupInfo({ value, style }) {
           </div>
           <hr />
           <div className="flex items-center gap-5 justify-center mt-10 text-white flex-wrap">
-            <Link
+{/*             <Link
               to={"/microsoft"}
               className="flex items-center gap-3 text-lg bg-blue-600 rounded-md py-2 px-5"
             >
               Microsoft <BsMicrosoft />
-            </Link>
+            </Link> */}
             <Link
               to={"/facebook"}
               className="flex items-center gap-3 text-lg bg-blue-600 rounded-md py-2 px-5"
